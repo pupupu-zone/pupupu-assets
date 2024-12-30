@@ -1,4 +1,4 @@
-# Ассеты PuPuPu
+# Ассеты Uha
 
 [English](../README.md) | __Russian__
 

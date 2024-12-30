@@ -1,4 +1,4 @@
-### PuPuPu Assets
+### Uha Assets
 
 __English__ | [Russian](./translations/README.RU.md)
 
