@@ -1,0 +1,7 @@
+{
+  "name": "Spotify",
+  "logo_url": "https://raw.githubusercontent.com/pupupu-zone/uha-assets/refs/heads/master/logotypes/spotify.webp",
+  "color": "#67D86F",
+  "aliases": ["спотифай"],
+  "category_link": "$music"
+}

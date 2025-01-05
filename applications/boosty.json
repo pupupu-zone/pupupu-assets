@@ -2,5 +2,6 @@
   "name": "Boosty",
   "logo_url": "https://raw.githubusercontent.com/pupupu-zone/uha-assets/refs/heads/master/logotypes/boosty.webp",
   "color": "#DF703D",
-  "aliases": ["бусти"]
+  "aliases": ["бусти"],
+  "category_link": "$monetization-platforms"
 }
