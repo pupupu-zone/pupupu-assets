@@ -1,0 +1,7 @@
+{
+  "name": "Tailscale",
+  "logo_url": "https://raw.githubusercontent.com/pupupu-zone/uha-assets/refs/heads/master/logotypes/tailscale.webp",
+  "color": "#D0D0D0",
+  "aliases": [""],
+  "category_link": "$vpn"
+}
