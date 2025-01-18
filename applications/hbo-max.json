@@ -1,0 +1,7 @@
+{
+  "name": "HBOMax",
+  "logo_url": "https://raw.githubusercontent.com/pupupu-zone/uha-assets/refs/heads/master/logotypes/hbo-max.webp",
+  "color": "#6920D1",
+  "aliases": ["хбо"],
+  "category_link": "$video"
+}

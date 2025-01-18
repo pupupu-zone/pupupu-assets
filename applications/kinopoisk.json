@@ -1,0 +1,7 @@
+{
+  "name": "Кинопоиск",
+  "logo_url": "https://raw.githubusercontent.com/pupupu-zone/uha-assets/refs/heads/master/logotypes/kinopoisk.webp",
+  "color": "#EB662B",
+  "aliases": ["kinopoisk"],
+  "category_link": "$video"
+}

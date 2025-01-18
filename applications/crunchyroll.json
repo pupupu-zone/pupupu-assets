@@ -1,0 +1,7 @@
+{
+  "name": "Crunchyroll",
+  "logo_url": "https://raw.githubusercontent.com/pupupu-zone/uha-assets/refs/heads/master/logotypes/crunchyroll.webp",
+  "color": "#ED752F",
+  "aliases": ["кранчиролл", "аниме"],
+  "category_link": "$video"
+}
