@@ -1,4 +1,5 @@
 {
+  "id": "$food",
   "name": "Food",
   "emoji": "🍔",
   "color": "#30336b"

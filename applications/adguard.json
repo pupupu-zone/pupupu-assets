@@ -1,0 +1,7 @@
+{
+  "name": "AdGuard",
+  "logo_url": "https://raw.githubusercontent.com/pupupu-zone/uha-assets/refs/heads/master/logotypes/adguard.webp",
+  "color": "#68B27A",
+  "aliases": ["адгард"],
+  "category_link": "$utilities"
+}
